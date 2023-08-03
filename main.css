@@ -8,6 +8,7 @@ body {
     max-width: 100%;
     min-height: 1000px;
     background-image: url('/img/cosmos.jpg');
+    background-color: #99f489;
 }
 
 .nav {
