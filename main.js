@@ -6,7 +6,7 @@ const planetsEl = document.querySelector(".planets");
 const vehiclesEl = document.querySelector(".vehicles");
 const paginationPageEl = document.querySelector(".pagin-page");
 let currentPage = 1;
-
+console.log("hello");
 const totalPages = 3;
 // URL для отримуємо дані
 const URLS = {
